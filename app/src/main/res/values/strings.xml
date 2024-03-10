@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name:</string>
+    <string name="color">Color:</string>
+    <string name="category">Category:</string>
+    <string name="price">Price:</string>
+    <string name="addedToBag">Added To Bag</string>
+    <string name="addToBag">Add To Bag</string>
+    <string name="bag">Bag</string>
+    <string name="check_out">Check Out</string>
+    <string name="total_item_count">Total Item Count:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="remove_from_bag">Remove From Bag</string>
+    <string name="order_confirmation">Order confirmation</string>
+    <string name="your_order_has_been_placed_successfully">Your order has been placed successfully!</string>
+    <string name="close">Close</string>
+</resources>
